@@ -1,2 +1,3 @@
-# -NabaKun-addon-Slefhost
+# NabaKun-addon-Slefhost
 Stremio addon selfhosted
+https://nabakun-nabakun.hf.space

@@ -2,9 +2,9 @@
 Stremio addon selfhosted
 (https://nabakun-selfhosted.hf.space)
 
-<iframe
-    src="[https://<space-subdomain>.hf.space](https://nabakun-selfhosted.hf.space)"
-    frameborder="0"
-    width="850"
-    height="450"
-></iframe>
+### 🚀 Interactive AI App
+
+> Built with Gradio/Streamlit on Hugging Face Spaces  
+> Click below to launch the live app.
+
+🔗 https://huggingface.co/nabakun
